@@ -74,7 +74,7 @@ export function Products() {
             Featured Product
           </Badge>
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-4">
-            <span className="text-primary">AnQuest CRM</span> - Your Business Command Center
+            <span className="text-primary">aNquest CRM</span> - Your Business Command Center
           </h2>
           <p className="text-lg text-muted-foreground">
             A powerful, cloud-based CRM solution available on flexible rental plans. Streamline your
@@ -100,7 +100,7 @@ export function Products() {
           <div className="flex items-center justify-center">
             <Card className="w-full max-w-md border-2 border-primary/20">
               <CardHeader>
-                <CardTitle className="text-2xl">Why Choose AnQuest CRM?</CardTitle>
+                <CardTitle className="text-2xl">Why Choose aNquest CRM?</CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="space-y-3">

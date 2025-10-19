@@ -35,8 +35,8 @@ export function Contact() {
     {
       icon: Mail,
       title: "Email Us",
-      content: "contact@anquestmedia.com",
-      link: "mailto:contact@anquestmedia.com",
+      content: "contact@aNquestmedia.com",
+      link: "mailto:contact@aNquestmedia.com",
     },
     {
       icon: Phone,

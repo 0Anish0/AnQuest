@@ -45,7 +45,7 @@ export function Footer() {
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-xl">A</span>
               </div>
-              <span className="text-xl font-bold text-foreground">AnQuest Media</span>
+              <span className="text-xl font-bold text-foreground">aNquest Media Pvt. Ltd.</span>
             </Link>
             <p className="text-sm text-muted-foreground mb-4 max-w-sm">
               Empowering businesses with innovative digital solutions, cutting-edge CRM & ERP
@@ -136,7 +136,7 @@ export function Footer() {
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground text-center md:text-left">
-              © {new Date().getFullYear()} AnQuest Media. All rights reserved.
+              © {new Date().getFullYear()} aNquest Media. All rights reserved.
             </p>
             <p className="text-sm text-muted-foreground text-center md:text-right">
               Built with excellence for your digital success

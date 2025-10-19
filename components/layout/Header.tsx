@@ -25,7 +25,7 @@ export function Header() {
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-xl">A</span>
               </div>
-              <span className="text-xl font-bold text-foreground">AnQuest Media</span>
+              <span className="text-xl font-bold text-foreground">aNquest Media</span>
             </Link>
           </div>
 

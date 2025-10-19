@@ -16,7 +16,7 @@ export function Services() {
       icon: Database,
       title: "CRM & ERP Solutions",
       description:
-        "Comprehensive business management software including our flagship AnQuest CRM, available on a flexible rental basis to streamline your operations.",
+        "Comprehensive business management software including our flagship aNquest CRM, available on a flexible rental basis to streamline your operations.",
       features: ["Customer Management", "Sales Pipeline", "Inventory Control", "Financial Management"],
     },
     {

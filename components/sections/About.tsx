@@ -34,10 +34,10 @@ export function About() {
       <div className="container mx-auto">
         <div className="max-w-3xl mx-auto text-center mb-16">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-foreground mb-4">
-            About <span className="text-primary">AnQuest Media</span>
+            About <span className="text-primary">aNquest Media</span>
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            AnQuest Media is your trusted partner for comprehensive digital transformation. We
+            aNquest Media is your trusted partner for comprehensive digital transformation. We
             specialize in delivering enterprise-grade CRM & ERP solutions, cutting-edge SaaS
             platforms, and full-spectrum digital marketing services that help businesses thrive in
             the digital age.
